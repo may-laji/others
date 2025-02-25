@@ -1,1 +1,1 @@
-{ system: true, expire: 6 }
+{ "system": true, "expire": 6 }
